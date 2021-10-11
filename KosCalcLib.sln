@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosCalcLib", "KosCalcLib\KosCalcLib.csproj", "{19B2B9D7-70C7-4F30-A2CF-93892A1E9A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosCalcLib.Tests", "KosCalcLib.Tests\KosCalcLib.Tests.csproj", "{160D5B7D-BA79-4310-ABF3-AB2A0C7544F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B2B9D7-70C7-4F30-A2CF-93892A1E9A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B2B9D7-70C7-4F30-A2CF-93892A1E9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B2B9D7-70C7-4F30-A2CF-93892A1E9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B2B9D7-70C7-4F30-A2CF-93892A1E9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160D5B7D-BA79-4310-ABF3-AB2A0C7544F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160D5B7D-BA79-4310-ABF3-AB2A0C7544F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160D5B7D-BA79-4310-ABF3-AB2A0C7544F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160D5B7D-BA79-4310-ABF3-AB2A0C7544F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76661DAA-77B6-48BC-BF75-33C8A515D41E}
+	EndGlobalSection
+EndGlobal
